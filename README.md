@@ -1,5 +1,5 @@
 
-### *Hello it is i **THE** Väinö Jämsä*
+### *Yo it's me Väinö Jämsä*
 ---
 
 #### I can code Python and PHP to some extent.
