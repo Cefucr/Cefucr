@@ -1,7 +1,7 @@
 
 ## *Hello my name is Väinö Jämsä*
 
-### I am currently studying at Salon seudun ammattiopisto. From which i will graduate in spring 2024.
+### I recently graduated from Salon seudun ammattiopisto after which i applied to go to AMK.
 <br>
 
 Most of my programs are in English but there a couple finnish ones too.
